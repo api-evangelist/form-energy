@@ -38,6 +38,8 @@ modified: '2026-05-23'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/form-energy-domain-security.yml
   - type: Website
     url: https://formenergy.com
   - type: Technology
@@ -76,6 +78,8 @@ common:
     url: https://www.facebook.com/formenergy
   - type: Instagram
     url: https://www.instagram.com/formenergy
+  - url: https://formenergy.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
