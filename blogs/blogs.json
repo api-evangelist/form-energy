@@ -6,10 +6,10 @@
       "feed_url": "https://formenergy.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "feed"
     }
   ],
-  "fetched": "2026-09-13T13:00:00Z",
+  "fetched": "2026-09-19T20:17:39Z",
   "post_count": 20,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
